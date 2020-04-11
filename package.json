@@ -4,7 +4,6 @@
   "description": "Burger Logger",
   "main": "server.js",
   "scripts": {
-    
     "start": "node server.js"
   },
   "repository": {
@@ -20,6 +19,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^4.0.3",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "node": "^13.12.0"
   }
 }
