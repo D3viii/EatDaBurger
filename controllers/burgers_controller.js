@@ -31,4 +31,4 @@ router.put('/burgers/update', function(req, res) {
     });
 });
 
-module.exports = routes;
+module.exports = router;
